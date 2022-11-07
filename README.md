@@ -1,22 +1,16 @@
 <article>
   <h1 align='center'>Quick About Me! 👋</h1>
-  <p></p/
+  <p align='center'>
+    Hi, I'm Shashank. I'm a developer from New Jersey, USA who's interested in technology,             programming and computer science.
+  </p>
 </article>
 
-
-
-
-# Quick About Me! 👋
-Hi, I'm Shashank. I'm a highschooler who's interested in programming and computer science. I can code in:
-  - Python 
-  - JavaScript
-  - React Native
-  - Arduino
-  - C++
-
-
-# Contact Me
-Want to reach out? Awesome! Email me at shashankprasanna1@gmail.com.
+<article>
+  <h1 align='center'>Contact Me </h1>
+  <p align='center'>
+    Want to reach out to me? Awesome! Email me at shashankprasanna1@gmail.com.
+  </p>
+</article>
 
 <!---
 SpyGuy0215/SpyGuy0215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
