@@ -1,3 +1,4 @@
+
 <article>
   <h1 align='center'>Quick About Me! 👋</h1>
   <p align='center'>
@@ -6,7 +7,18 @@
 </article>
 
 <article>
-  <h1 align='center'>Contact Me </h1>
+  <h1 align='center'>Skills 🛠️</h1>
+  <h3> Languages </h3>
+  <a href='https://www.python.org'>
+    <img src='https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white'></img>
+  </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+    <img src='https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript'></img>
+  </a>
+</article>
+
+<article>
+  <h1 align='center'>Contact Me 📬</h1>
   <p align='center'>
     Want to reach out to me? Awesome! Email me at shashankprasanna1@gmail.com.
   </p>
