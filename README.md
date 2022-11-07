@@ -1,10 +1,13 @@
+# Quick About Me! 👋
 Hi, I'm Shashank. I'm a highschooler who's interested in programming and computer science. I can code in:
-  - Python
+  - Python 
   - JavaScript
   - React Native
   - Arduino
   - C++
 
+
+# Contact Me
 Want to reach out? Awesome! Email me at shashankprasanna1@gmail.com.
 
 <!---
