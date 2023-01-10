@@ -17,6 +17,8 @@
   </a>
 </article>
 
+[![SpyGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyguy0215)](https://github.com/anuraghazra/github-readme-stats)
+
 <article>
   <h1 align='center'>Contact Me 📬</h1>
   <p align='center'>
