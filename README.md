@@ -2,7 +2,7 @@
 <article>
   <h1 align='center'>Quick About Me! 👋</h1>
   <p align='center'>
-    Hi, I'm Shashank. I'm a developer from New Jersey, USA who's interested in technology,             programming and computer science.
+    Hi, I'm Shashank. I'm a developer from New Jersey, USA who's interested in technology,             programming, machine learning, and computer science.
   </p>
 </article>
 
