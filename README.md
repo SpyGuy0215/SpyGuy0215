@@ -17,7 +17,11 @@
   </a>
 </article>
 
+<article>
+  <h1 align='center'> Stats ⚡</h1>
+
 [![SpyGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyguy0215&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/SpyGuy0215)
+</article>
 
 <article>
   <h1 align='center'>Contact Me 📬</h1>
