@@ -17,7 +17,7 @@
   </a>
 </article>
 
-[![SpyGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyguy0215)](https://github.com/anuraghazra/github-readme-stats)
+[![SpyGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyguy0215&theme=tokyonight&show_icons=true)](https://github.com/SpyGuy0215)
 
 <article>
   <h1 align='center'>Contact Me 📬</h1>
