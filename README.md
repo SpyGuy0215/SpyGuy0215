@@ -38,6 +38,9 @@
         <a href='https://reactnative.dev/'>
           <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></img>
         </a>
+        <a href='expo.dev/'>
+          <img src='https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=Expo&logoColor=black'></img>
+        </a>
     <h4>Prototyping Platforms</h4>
         <a href='https://www.arduino.cc/'>
           <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'></img>
@@ -73,6 +76,12 @@
      <h4>Other</h4>
         <a href='https://raspberrypi.org'>
           <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></img>
+        </a>
+        <a href='https://raspberrypi.org'>
+          <img src='https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white'></img>
+        </a> 
+        <a href='https://raspberrypi.org'>
+          <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'></img>
         </a> 
    
 </article>
