@@ -83,6 +83,8 @@
 [![SpyGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyguy0215&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/SpyGuy0215)
 </article>
 
+[![SpyGuy's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spyguy0215&theme=tokyonight&hide_border=true)](https://github.com/SpyGuy0215)
+
 <article>
   <h1 align='center'>Contact Me 📬</h1>
   <p align='center'>
