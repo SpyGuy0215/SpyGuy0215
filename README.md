@@ -2,7 +2,7 @@
 <article>
   <h1 align='center'>Quick About Me! 👋</h1>
   <p align='center'>
-    Hi, I'm Shashank. I'm a programmmer who's interested in technology, machine learning, and computer science.
+    Hi, I'm Shashank. I'm a programmer who's interested in technology, machine learning, and computer science.
   </p>
 </article>
 
