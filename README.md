@@ -31,9 +31,6 @@
         <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
           <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'></img>
         </a>
-        <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-          <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'></img>
-        </a>
     <h4>Mobile Frameworks</h4>
         <a href='https://reactnative.dev/'>
           <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></img>
@@ -50,28 +47,6 @@
         </a>
         <a href='https://raspberrypi.org'>
           <img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white'></img>
-        </a>
-     <h4>IDEs</h4>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important'></img>
-        </a>
-        <a href='https://raspberrypi.org'>
-          <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'></img>
         </a>
      <h4>Other</h4>
         <a href='https://raspberrypi.org'>
